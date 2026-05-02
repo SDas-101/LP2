@@ -43,7 +43,7 @@ mc2/
 This project uses the GTSRB dataset.
 
 Download it from:
-https://drive.google.com/drive/folders/1eJnrhnkw2m4OWXssHA8kwbsEBrYIc0wh?usp=sharing
+https://drive.google.com/drive/folders/1VLpasOqOYgYCePGRst8t0I-c0BW7_VBa?usp=sharing
 
 ### After downloading:
 
