@@ -40,7 +40,7 @@ This project uses a **Devanagari handwritten digit dataset**.
 The dataset is **not included** in this repository.
 
 Download it from:
-👉 **[PASTE YOUR GOOGLE DRIVE LINK HERE]**
+https://drive.google.com/drive/folders/1jLvHIsEYw2m2sKQKOPTM9XZ7POsOi1R1?usp=sharing
 
 ---
 
